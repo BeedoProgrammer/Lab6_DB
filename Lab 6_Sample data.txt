@@ -1,4 +1,4 @@
-
+USE Order_processing_System;
 
 INSERT INTO `customer` (`customer_id`, `customer_name`, `city`) VALUES
 (1, 'Stewart Tyler', 'Wageningen'),
